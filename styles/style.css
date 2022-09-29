@@ -49,6 +49,10 @@ nav {
     justify-content: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+span {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
 
 @media screen and (max-width: 480px) {
     p {
@@ -70,8 +74,7 @@ nav {
     h1 {
         font-size: 12px;
     }
-    
-    p {
+        p {
       font-size: 9px;
     }
     .container {
