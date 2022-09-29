@@ -8,7 +8,7 @@ Para este ejercicio hemos utilizado HTML y CSS (con "flex").
 
 #### Preview
 
-![foto](/assets/images/Gatetes.jpg)
+![foto](assets/images/Gatetes.jpg)
 
 ----
 Hecho por [Miguel Herrera](https://github.com/miguelherreravillanueva)
